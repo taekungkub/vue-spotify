@@ -4,7 +4,7 @@
 
 ```bash
 
-git clone repo
+git clone https://github.com/taekungkub/vue-spotify.git
 
 npm i
 
