@@ -2,6 +2,10 @@
 
 ### database using firebase
 
+### Demo:
+
+[https://dashing-khapse-47614d.netlify.app/](dashing-khapse-47614d.netlify.app/)
+
 ```bash
 
 git clone https://github.com/taekungkub/vue-spotify.git
