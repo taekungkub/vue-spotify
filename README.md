@@ -4,7 +4,7 @@
 
 ### Demo:
 
-[https://dashing-khapse-47614d.netlify.app/](dashing-khapse-47614d.netlify.app/)
+[Demo](dashing-khapse-47614d.netlify.app)
 
 ```bash
 
