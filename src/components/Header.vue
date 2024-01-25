@@ -30,7 +30,7 @@
 
 <script setup>
 import ButtonPlay from "./ButtonPlay.vue"
-import ButtonInfo from "./buttonInfo.vue"
+import ButtonInfo from "./ButtonInfo.vue"
 </script>
 
 <style lang="scss" scoped></style>
